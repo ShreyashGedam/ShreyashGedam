@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R8BU69DqiItn2EpmhQi6iuEpJM55eM2f/view?usp=sharing](https://drive.google.com/file/d/1R8BU69DqiItn2EpmhQi6iuEpJM55eM2f/view?usp=sharing)
 
-- ⚡ Fun fact **National Level Tennis Player**
+- ⚡ Fun fact **I am National Level Tennis Player**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/shreyash-gedam/</h3>
 <p align="left">

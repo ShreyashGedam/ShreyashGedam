@@ -1,4 +1,4 @@
-![MasterHead](https://www.athityakumar.dev/assets/images/blog/Getting_into_the_Software_Development_life_without_a_CS_degree/coding_banner_7_2.png)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg)
 <h1 align="center">Hi 👋, I'm Shreyash</h1>
 <h3 align="center">Self- motivated and aspiring full-stack developer with proficiency in MERN stack</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">

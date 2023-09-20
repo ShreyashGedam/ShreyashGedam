@@ -12,6 +12,7 @@
 - ⚡ Fun fact **I am National Level Tennis Player**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/shreyash-gedam/</h3>
+<h3 align="left">You can see my protfolio: https://kaleidoscopic-cassata-dd9104.netlify.app/</h3>
 <p align="left">
 </p>
 
